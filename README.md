@@ -6,7 +6,7 @@ Serverless web application using AWS(Amplify,Cognito,DynamoDB,Lambda,APIGateway.
 # ▶The process I have followed
 link-https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/
 # ☠ key_notes(Check these notes before click the above link):
-▶▶Make sure to create an user from from the Root account because you cant perform codecommit from Root account.\n
+▶▶<br>Make sure to create an user from from the Root account<br> because you cant perform codecommit from Root account.
 ▶▶Login into user account from another browser/cognito window.
 ▶▶Give the user-codecommit permission.
 ▶▶Download the (Access key and Secret Access key)&(HTTPS Git credetials) from IAM --> User
